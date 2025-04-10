@@ -10,8 +10,8 @@
 <body class="bg-secondary-subtle">
     <div class="d-flex justify-content-center mt-5">
         <div class="d-flex justify-align-content-around ">
-            <a class="btn btn-outline-success me-2" href="/animal/formanimal">Cadastro</a>
-            <a class="btn btn-outline-success me-2" href="/animal">Lista</a>
+            <a class="btn btn-outline-success me-2" href="/animal/formanimal">Ver Cadastro</a>
+            <a class="btn btn-outline-success me-2" href="/animal">Ver Lista</a>
         </div>
     </div>
 </body>
